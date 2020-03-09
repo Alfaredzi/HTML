@@ -3,8 +3,8 @@
 <meta charset="UTF-8">
 <body>
 
-<p>I will display A B C</p>
-<p>I will display &#65; &#66; &#67;</p>
+<p>puri indah</p>
+<p>beverly &#65; &#66; &#67;</p>
 
 </body>
 </html>
