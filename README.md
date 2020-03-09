@@ -1,3 +1,3 @@
 # HTML
 diajar
-<h1>Heading 1</h1>
+<h1>kontol 1</h1>
