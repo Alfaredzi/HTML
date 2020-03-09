@@ -1,5 +1,10 @@
-<h1># HTML<h1>
-diajar
-<h1>000000000</h1>
-<h2>000000000</h2>
-<h3>000000000</h3>
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<body>
+
+<p>I will display A B C</p>
+<p>I will display &#65; &#66; &#67;</p>
+
+</body>
+</html>
